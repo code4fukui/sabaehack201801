@@ -9,7 +9,7 @@
 ### 1. SKY VOICE (スカイボイス)
 世界中のボランティアネットワークを通じたリアルタイムの音声ガイドにより、障がい者の方々を目的地まで案内するナビゲーションアプリのコンセプトです。
 
-- **デモ:** [http://codeforfukui.github.io/sabaehack201801/skyvoice/](http://codeforfukui.github.io/sabaehack201801/skyvoice/)
+- **デモ:** ~~http://codeforfukui.github.io/sabaehack201801/skyvoice/~~ *(unavailable)* *(demo unavailable)*
 
 #### 特徴
 - **音声ガイド:** ユーザーを世界中の人々とつなぎ、リアルタイムの音声サポートを提供します。
@@ -25,7 +25,7 @@
 ### 2. 鯖江市AIチャット「おたすけパンダPくん」
 鯖江市役所に関する質問に答えるために設計された、マスコット「おたすけパンダPくん」のAIチャットボットです。
 
-- **デモ:** [http://codeforfukui.github.io/sabaehack201801/aichat/](http://codeforfukui.github.io/sabaehack201801/aichat/)
+- **デモ:** ~~http://codeforfukui.github.io/sabaehack201801/aichat/~~ *(unavailable)* *(demo unavailable)*
 
 #### 特徴
 - **テキスト＆音声入力:** 文字または音声でチャットボットとやり取りできます。

@@ -11,7 +11,7 @@ This repository contains projects developed at the "Hackathon for Utilizing Open
 ### 1. SKY VOICE (スカイボイス)
 A navigation app concept that guides people with disabilities to their destination via real-time voice guidance from a global network of volunteers.
 
-- **Demo:** [http://codeforfukui.github.io/sabaehack201801/skyvoice/](http://codeforfukui.github.io/sabaehack201801/skyvoice/)
+- **Demo:** ~~http://codeforfukui.github.io/sabaehack201801/skyvoice/~~ *(unavailable)* *(demo unavailable)*
 
 #### Features
 - **Voice Guidance:** Connects users with people around the world for live voice support.
@@ -27,7 +27,7 @@ A navigation app concept that guides people with disabilities to their destinati
 ### 2. 鯖江市AIチャット「おたすけパンダPくん」 (Sabae City AI Chat "Otasuke Panda P-kun")
 An AI chatbot, featuring the mascot "Otasuke Panda P-kun," designed to answer questions about Sabae City Hall.
 
-- **Demo:** [http://codeforfukui.github.io/sabaehack201801/aichat/](http://codeforfukui.github.io/sabaehack201801/aichat/)
+- **Demo:** ~~http://codeforfukui.github.io/sabaehack201801/aichat/~~ *(unavailable)* *(demo unavailable)*
 
 #### Features
 - **Text & Voice Input:** Users can interact with the chatbot via text or voice.
